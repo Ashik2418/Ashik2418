@@ -6,7 +6,7 @@
 
 I demonstrates a remarkable work ethic, consistently putting in the time and effort required to grasp complex programming concepts. Their dedication to honing their skills in C++ is evident in their continuous pursuit of knowledge and the ability to tackle challenging coding tasks.
 
-Skills: C/C++/Python
+Skills: #C/#C++/#Python
 
 - 🔭 I’m currently working on Facebook 
 - 🌱 I’m currently learning C++ 
