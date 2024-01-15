@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Mohammod Ashikur Rahman
 #### I am a small Coder
-![I am a small Coder]
-(https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/407131403_1529033294519832_791531054085735849_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=9534ce&_nc_ohc=aTUBawIaFiQAX856PJL&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBsdnicySyIJvCj8qCCtirt3mCAGzIJRhRAe6ix6BkL9g&oe=65A9AFBE)
+![I am a small Coder](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/407131403_1529033294519832_791531054085735849_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=9534ce&_nc_ohc=aTUBawIaFiQAX856PJL&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBsdnicySyIJvCj8qCCtirt3mCAGzIJRhRAe6ix6BkL9g&oe=65A9AFBE)
 
  I'm a dedicated and hardworking individual with a passion for programming, specifically in the C++ language. With a strong commitment to learning and a keen interest in software development, I has embarked on a journey to master the intricacies of C++ programming.
 
