@@ -20,3 +20,5 @@ Passionate about programming and problem-solving. Previously focused on C/C++ fo
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![Snake animation](https://raw.githubusercontent.com/{Ashik2418}/{Ashik2418}/output/github-contribution-grid-snake-dark.svg)
+
